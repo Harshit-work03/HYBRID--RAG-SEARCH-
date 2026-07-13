@@ -1,0 +1,59 @@
+# =========================
+# Topic: Artificial Intelligence
+# =========================
+
+Artificial Intelligence (AI) is the field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include reasoning, learning, language understanding, decision-making, and image recognition. AI is widely used in healthcare, finance, transportation, and education. Machine learning is a subset of AI where models learn patterns from data instead of being explicitly programmed.
+
+# =========================
+# Topic: Weather and Temperature
+# =========================
+
+Weather describes the condition of the atmosphere at a particular place and time. Important weather elements include temperature, humidity, wind speed, rainfall, and atmospheric pressure. During summer, temperatures can rise above 35°C in many regions, while winter temperatures may fall below 10°C. Weather forecasts help people prepare for changing conditions by predicting future temperatures and rainfall.
+
+# =========================
+# Topic: Python Programming
+# =========================
+
+Python is a high-level programming language known for its simplicity and readability. It is widely used in web development, data science, artificial intelligence, automation, and scripting. Popular Python libraries include NumPy for numerical computing, Pandas for data analysis, Matplotlib for visualization, and Streamlit for building interactive web applications.
+
+# =========================
+# Topic: Space Exploration
+# =========================
+
+Space exploration is the investigation of outer space using telescopes, satellites, space probes, and spacecraft. Scientists study planets, stars, galaxies, and black holes to better understand the universe. Human space missions have reached the Moon, while robotic missions continue to explore Mars and distant planets.
+
+# =========================
+# Topic: Human Health
+# =========================
+
+Maintaining good health requires balanced nutrition, regular exercise, sufficient sleep, and proper hydration. Adults should aim for at least seven to eight hours of sleep each night. Physical activity improves cardiovascular health, strengthens muscles, and reduces the risk of chronic diseases such as diabetes and hypertension.
+
+# =========================
+# Topic: Climate Change
+# =========================
+
+Climate change refers to long-term shifts in global temperatures and weather patterns. Human activities such as burning fossil fuels increase greenhouse gas emissions, leading to global warming. Rising temperatures contribute to melting glaciers, rising sea levels, and more frequent extreme weather events.
+
+# =========================
+# Topic: Databases
+# =========================
+
+A database is an organized collection of structured information that can be stored, retrieved, and updated efficiently. Relational databases store data in tables consisting of rows and columns. SQL (Structured Query Language) is commonly used to create, query, update, and delete records. Popular database systems include PostgreSQL, MySQL, SQLite, and Oracle Database.
+
+# =========================
+# Topic: Networking
+# =========================
+
+Computer networking enables devices to communicate and share resources over wired or wireless connections. Common networking protocols include HTTP, HTTPS, TCP, UDP, and FTP. Routers direct data packets between networks, while switches connect devices within the same local network.
+
+# =========================
+# Topic: Renewable Energy
+# =========================
+
+Renewable energy comes from natural sources that replenish continuously, including sunlight, wind, hydroelectric power, and geothermal energy. Solar panels convert sunlight into electricity, while wind turbines generate power from moving air. Renewable energy reduces dependence on fossil fuels and lowers carbon emissions.
+
+# =========================
+# Topic: Hybrid RAG
+# =========================
+
+Hybrid Retrieval-Augmented Generation (Hybrid RAG) combines keyword-based retrieval with semantic vector search. Keyword search, such as BM25, excels at finding exact word matches, while vector search retrieves documents based on semantic similarity. Combining both approaches improves retrieval accuracy, especially for natural language questions and documents containing synonyms or varied terminology.
