@@ -92,6 +92,18 @@ To search your own document, replace `sample.txt` with your text file, delete th
 
 Python, Sentence-Transformers, ChromaDB, rank-bm25, Ollama (Llama 3.2), Streamlit
 
+## Evaluation
+
+I compared dense-only, BM25-only and hybrid (RRF) retrieval on 15 hand-written questions over `sample.txt` (7 chunks). A question counts as a hit if the chunk containing the answer is retrieved. Run it with `python eval.py`.
+
+| Method | Top-1 | Top-3 |
+|---|---|---|
+| Dense only | 11/15 | 14/15 |
+| BM25 only | 13/15 | 13/15 |
+| Hybrid (RRF) | 12/15 | 14/15 |
+
+**Takeaways:** BM25 was strongest at Top-1 on this corpus, since many questions reused the document's exact wording. Hybrid matched the best Top-3 score and was never the weakest method, so it is the more robust choice when query style is unknown. These results come from a very small corpus and test set, so they are indicative rather than conclusive.
+
 ## Limitations and future work
 
 - Indexes one text file at a time.
